@@ -24,12 +24,12 @@
         <Space
             android:layout_width="wrap_content"
             android:layout_height="0dp"
-            android:layout_weight="33" />
+            android:layout_weight="30" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="6"
+            android:layout_weight="7"
             android:onClick="a"
             android:text="1st option" />
 
@@ -41,7 +41,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="6"
+            android:layout_weight="7"
             android:onClick="ai"
             android:text="2nd option" />
 
@@ -53,7 +53,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="6"
+            android:layout_weight="7"
             android:onClick="aib"
             android:text="3rd option" />
 
@@ -65,7 +65,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="6"
+            android:layout_weight="7"
             android:onClick="backtwo"
             android:text="4th option" />
 
@@ -77,14 +77,14 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="6"
+            android:layout_weight="7"
             android:onClick="backthree"
             android:text="5th option" />
 
         <Space
             android:layout_width="wrap_content"
             android:layout_height="0dp"
-            android:layout_weight="33" />
+            android:layout_weight="30" />
 
     </LinearLayout>
 
